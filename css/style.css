@@ -27,8 +27,8 @@ body {
   background-color:rgba(0,0,0,.8)
 }
 .home .navbar {
-  position:fixed;
-  z-index:999;
+  
+
   background-color:rgba(0, 0, 0, 0.87);
   width:100%;
   padding:0px 90px;
